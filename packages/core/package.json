@@ -6,7 +6,7 @@
   "homepage": "https://github.com/mo-demo/lerna#readme",
   "license": "ISC",
   "bin": {
-    "ctjk": "lib/core.js"
+    "ctjk1": "lib/core.js"
   },
   "directories": {
     "lib": "lib",
@@ -25,5 +25,5 @@
   "bugs": {
     "url": "https://github.com/mo-demo/lerna/issues"
   },
-  "gitHead": "ea94cf7bd22b5b5c69a0e156a45f50bc6a005810"
+  "gitHead": "8a449ef9a108256ed903054dd5359d8862572e91"
 }
