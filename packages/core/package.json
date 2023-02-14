@@ -1,0 +1,29 @@
+{
+  "name": "core",
+  "version": "0.0.2",
+  "description": "> TODO: description",
+  "author": "dongrui.wang <dongrui.wang@mapabc.com>",
+  "homepage": "https://github.com/mo-demo/lerna#readme",
+  "license": "ISC",
+  "bin": {
+    "ctjk": "lib/core.js"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mo-demo/lerna.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/mo-demo/lerna/issues"
+  },
+  "gitHead": "9c2464f7158852495e55682266006cafa84faa40"
+}
