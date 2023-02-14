@@ -1,5 +1,5 @@
 {
-  "name": "core",
+  "name": "ctjk-core",
   "version": "0.0.5",
   "description": "> TODO: description",
   "author": "dongrui.wang <dongrui.wang@mapabc.com>",
@@ -25,5 +25,5 @@
   "bugs": {
     "url": "https://github.com/mo-demo/lerna/issues"
   },
-  "gitHead": "8a449ef9a108256ed903054dd5359d8862572e91"
+  "gitHead": "a9563686607063b17f8b57b7700a422b95052c20"
 }
