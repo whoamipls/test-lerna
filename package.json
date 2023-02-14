@@ -6,9 +6,5 @@
   ],
   "devDependencies": {
     "lerna": "^6.1.0"
-  },
-  "publishConfig": {
-    "registry": "https://npmjs.com/org/ctjk/",
-    "access": "public"
   }
 }
